@@ -1,0 +1,49 @@
+{
+  "prepare_queue": {
+    "installed": [],
+    "uninstalled": []
+  },
+  "config_munge": {
+    "files": {}
+  },
+  "installed_plugins": {
+    "cordova-plugin-battery-status": {
+      "PACKAGE_NAME": "com.redsky.testings"
+    },
+    "cordova-plugin-camera": {
+      "PACKAGE_NAME": "com.redsky.testings"
+    },
+    "cordova-plugin-media-capture": {
+      "PACKAGE_NAME": "com.redsky.testings"
+    },
+    "cordova-plugin-device": {
+      "PACKAGE_NAME": "com.redsky.testings"
+    },
+    "cordova-plugin-dialogs": {
+      "PACKAGE_NAME": "com.redsky.testings"
+    },
+    "cordova-plugin-geolocation": {
+      "PACKAGE_NAME": "com.redsky.testings"
+    },
+    "cordova-plugin-globalization": {
+      "PACKAGE_NAME": "com.redsky.testings"
+    },
+    "cordova-plugin-inappbrowser": {
+      "PACKAGE_NAME": "com.redsky.testings"
+    },
+    "cordova-plugin-network-information": {
+      "PACKAGE_NAME": "com.redsky.testings"
+    },
+    "cordova-plugin-vibration": {
+      "PACKAGE_NAME": "com.redsky.testings"
+    }
+  },
+  "dependent_plugins": {
+    "cordova-plugin-compat": {
+      "PACKAGE_NAME": "com.redsky.testings"
+    },
+    "cordova-plugin-file": {
+      "PACKAGE_NAME": "com.redsky.testings"
+    }
+  }
+}
